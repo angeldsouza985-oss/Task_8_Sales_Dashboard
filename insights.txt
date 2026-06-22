@@ -1,0 +1,9 @@
+TASK 8 INSIGHTS
+
+1. Sales vary across different months, indicating changing customer demand.
+
+2. Australia and the UK are among the top-performing countries in terms of sales.
+
+3. Certain products contribute significantly more to total sales than others.
+
+4. The country slicer allows users to compare sales performance interactively.
